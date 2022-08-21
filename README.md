@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Senior DevOps Engineer working in Helsinki Finland</h1>
+<h1 align="center">Hi 👋, I'm a Senior DevOps Engineer working in Helsinki, Finland</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzunair&label=Profile%20views&color=0e75b6&style=flat" alt="mzunair" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzunair" alt="mzunair" /></a> </p>
